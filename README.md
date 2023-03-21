@@ -9,10 +9,6 @@
     |
     |-->   Model                     => Folder containing the notebooks
     |
-    |-->   Theoretical               => Folder giving an insight about the approach
-    |         |
-    |         |-->  README.md        => Conceptual Explanation
-    |
     |-->   Snippets                  => Folder for Code Snippets
               |
               |-->  README.md        => Code Snippets
@@ -26,8 +22,7 @@ The Project explains the <b><i>Quantum Computation</i></b>. The project takes th
 | Serial No. | Folder Name | Work Status |
 |-|-|-|
 | 1. | <b><i>Model | Completed :heavy_check_mark: |
-| 2. | <b><i>Theoretical | Completed :heavy_check_mark: |
-| 3. | <b><i>Snippets | Completed :heavy_check_mark: |
+| 2. | <b><i>Snippets | Completed :heavy_check_mark: |
 
 ------
 
